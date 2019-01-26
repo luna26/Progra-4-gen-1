@@ -1,0 +1,21 @@
+.navbar-container {
+    background-color: #ec8a8a;
+}
+
+.navbar-container ul {
+    display: flex;
+}
+
+.navbar-container ul a {
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar-container ul a:hover {
+    background-color: white;
+    color: black;
+}
